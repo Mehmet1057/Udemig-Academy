@@ -29,7 +29,7 @@ html, body{
 header {
   min-height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/images/bg.webp);
+    url(./images/bg.webp);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -203,7 +203,7 @@ h1 {
 .ua {
   margin-top: 100px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/images/london.jpg);
+    url(./images/london.jpg);
   padding: 100px 0;
   background-position: center;
   background-size: cover;
